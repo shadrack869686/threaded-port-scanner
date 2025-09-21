@@ -1,0 +1,5 @@
+Host,Port,Status,Banner
+127.0.0.1,80,closed,
+127.0.0.1,22,closed,
+127.0.0.1,443,closed,
+127.0.0.1,3306,open,
